@@ -26,6 +26,9 @@
     "mongoose": "*",
     "passport": "*",
     "passport-http": "*",
-    "passport-local": "*"
+    "passport-local": "*",
+    "web3": "*",
+    "zeppelin-solidity": "*",
+    "truffle": "*"
   }
 }
