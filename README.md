@@ -1,5 +1,7 @@
 # ImpactTokenServer
-NodeJS server fo rImpact Token
+NodeJS server for Impact Token
+
+Impact Token here https://github.com/jamesylgan/ImpactToken
 
 # ImpactToken
 We created a marketplace to foster an engaged community of consumers, entrepreneurs, &amp; non-profit organizations.
